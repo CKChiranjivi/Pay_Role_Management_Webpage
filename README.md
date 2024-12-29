@@ -1,3 +1,4 @@
+
 # Pay_Role_Management_Webpage
  The **Pay Role Management Webpage**  is a user-friendly web application designed to assist businesses and individuals in managing cash transactions efficiently. This tool calculates the minimum number of currency notes required to return change to customers, ensuring transparency and accuracy in financial dealings.
 
@@ -63,10 +64,14 @@ The application supports the following Indian currency denominations:
 ## Screenshots
 
 ### Input Fields
-![Input Fields](https://via.placeholder.com/800x400?text=Screenshot+of+Input+Fields)
+![ScreenShort1](https://github.com/user-attachments/assets/32ede2a7-d71c-44ec-8299-a1213ff3dccb)
+
 
 ### Results Section
-![Results](https://via.placeholder.com/800x400?text=Screenshot+of+Results)
+![ScreenShot2](https://github.com/user-attachments/assets/c57db5c6-e4a8-48dc-ae5f-fa7e0ef7b47e)
+
+![ScreenShot3](https://github.com/user-attachments/assets/1dff3eb8-1fd4-4a3c-876c-ebd8c06f4620)
+
 
 ## Future Enhancements
 
